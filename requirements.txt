@@ -20,4 +20,4 @@ gensim==4.3.2
 dcss==1.0.2
 beautifulsoup4==4.12.3
 wikipedia-api==0.6.0
-python -m spacy download en_core_web_sm
+en_core_web_sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.7.1/en_core_web_sm-3.7.1-py3-none-any.whl
